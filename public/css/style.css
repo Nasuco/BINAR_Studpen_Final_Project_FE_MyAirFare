@@ -1,0 +1,350 @@
+/* heaeder */
+.header {
+  height: 28px;
+  left: 0px;
+  top: 0px;
+  background: #00426f;
+}
+
+/* start navbar */
+body {
+  background: #f4eeee;
+}
+
+.navbar {
+  background: #f4eeee;
+  align-items: center;
+  margin: auto;
+}
+
+.logoweb1 {
+  width: 187px;
+  height: 52px;
+  left: 109px;
+  top: 52px;
+  padding-left: 30%;
+}
+
+.navbar ul li a {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  /* font-size: 20px; */
+  line-height: 30px;
+  color: #656565;
+}
+
+.btn-secondary {
+  /* position: absolute; */
+  /* left: 1062px; */
+  /* background: #656565; */
+  width: 119px;
+  height: 37px;
+  color: white;
+}
+
+.btn-blue {
+  /* position: absolute; */
+  /* left: 1199px; */
+  background: #0075cf;
+  width: 119px;
+  height: 37px;
+  color: white;
+}
+
+/* end nav */
+
+.btn-kiri {
+  width: 200px;
+  height: 55px;
+  /* margin-right: 10px; */
+  background-color: #ff6a6a !important;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  border: none;
+}
+
+.btn-kanan {
+  width: 200px;
+  height: 55px;
+  /* margin-left: 10px; */
+  background-color: #00b912 !important;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  border: none;
+}
+
+.btn-transparent {
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  width: 256px;
+  height: 54px;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.kartu {
+  padding-top: 100px;
+  padding-left: 90px;
+  padding-right: 100px;
+  font-size: 20px;
+}
+
+.kartu .bg-choose {
+  background-color: #848484;
+}
+
+.kartu .bg-choose:hover {
+  background-color: #0075cf;
+}
+
+.kartu p {
+  margin-top: 17px;
+}
+
+.partner {
+  color: #00426f;
+}
+
+.skyteam {
+  font-size: 20px;
+  height: 404px;
+  background: #ffffff;
+}
+
+.jarak {
+  margin-top: 0px;
+}
+
+.pesawat {
+  width: 239.71px;
+  height: 66.32px;
+}
+
+@media screen and (max-width: 768px) {
+  .pesawat {
+    width: 200px;
+    height: 60px;
+  }
+
+  .text-more {
+    font-size: 25px;
+  }
+
+  .btn-transparent {
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    width: 180px;
+    height: 40px;
+    font-size: 18px;
+  }
+}
+
+.tentang-kami h2 {
+  margin-top: 60px;
+  color: #00426f;
+}
+
+.tentang-kami h5 {
+  margin-top: 350px;
+  color: white;
+  text-shadow: #0075cf;
+  /* margin-bottom: 10px; */
+  /* padding-bottom: 10px; */
+}
+
+.card-img {
+  width: 261px;
+  height: 473px;
+}
+
+/* login*/
+.bg-log {
+  max-width: 100%;
+}
+.bg-reg {
+  max-width: 100%;
+}
+
+.login {
+  width: 250px;
+  height: 80px;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 90px;
+}
+
+.img-24 {
+  /* max-width: 100%; */
+  height: 1100px;
+}
+
+.wrapper-login {
+  width: 600px;
+  background: #ffffff;
+  border: 15px;
+  place-items: center;
+  /* display: grid; */
+  margin-top: 50px;
+}
+
+.wrapper-login .title {
+  font-size: 30px;
+  font-weight: 400px;
+  text-align: center;
+  line-height: 45px;
+  color: #0075cf;
+  user-select: none;
+  border-radius: 15px 15px 0 0;
+}
+
+.wrapper-login form {
+  padding: 10px 30px 50px 30px;
+}
+
+.wrapper-login form .field {
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  position: relative;
+}
+
+.wrapper-login form .button {
+  margin-top: 150px;
+}
+
+.wrapper-login form .field input {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  font-size: 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+.wrapper-login form .field label {
+  top: 50%;
+  left: 20%;
+  font-size: 20px;
+  color: #00426f;
+}
+
+.wrapper-login form .signup-link {
+  position: relative;
+  padding-top: 40px;
+}
+
+.wrapper-login form label {
+  margin-top: 30px;
+}
+
+.form content {
+  display: flex;
+  width: 100%;
+  height: 50px;
+}
+
+/* regist */
+.wrapper-regist {
+  width: 800px;
+  background: #ffffff;
+  border: 15px;
+  place-items: center;
+  /* display: grid; */
+  margin-top: 50px;
+}
+
+.wrapper-regist .title {
+  font-size: 30px;
+  font-weight: 400px;
+  text-align: center;
+  line-height: 45px;
+  color: #0075cf;
+  user-select: none;
+  border-radius: 15px 15px 0 0;
+}
+
+.wrapper-regist form {
+  padding: 10px 30px 50px 30px;
+}
+
+.wrapper-regist form .field {
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  position: relative;
+}
+
+.wrapper-regist form .button {
+  margin-top: 150px;
+}
+
+.wrapper-regist form .field input,
+select {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  font-size: 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+.wrapper-regist form .field label {
+  top: 50%;
+  left: 20%;
+  font-size: 20px;
+  color: #00426f;
+}
+
+.wrapper-regist form .signup-link {
+  position: relative;
+  padding-top: 40px;
+}
+
+.wrapper-regist form label {
+  margin-top: 30px;
+}
+
+.form content {
+  display: flex;
+  width: 100%;
+  height: 50px;
+}
+
+/* checkin */
+.img-checkin {
+  max-width: 100%;
+}
+
+.card-checkin {
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.col-check {
+  margin-left: 100px;
+  margin-right: 30px;
+}
+
+.btn-checkin {
+  width: 140px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* footer */
+.foot {
+  margin-top: 300px;
+}
+
+.foot h5,
+h2 {
+  color: #0075cf;
+}
+
+/* Hasil Check in */
+/* #receipt { */

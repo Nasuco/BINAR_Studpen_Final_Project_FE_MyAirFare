@@ -1,0 +1,354 @@
+.image-25-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1695px;
+  height: 1229px;
+  object-fit: cover;
+}
+.image-38-icon,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-div {
+  top: -31px;
+  background-color: var(--color-gray-700);
+  height: 55px;
+}
+.image-38-icon {
+  top: 124px;
+  height: 93px;
+  object-fit: cover;
+}
+.myticket {
+  position: absolute;
+  top: 148px;
+  left: 669px;
+  font-weight: 600;
+  display: inline-block;
+}
+.mdicart-minus {
+  position: absolute;
+  top: 57px;
+  left: 1028px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1204px;
+  height: 820px;
+}
+.flat-color-iconsexpired {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.jadwal-terbang {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.terlewat {
+  margin: 0;
+}
+.jadwal-terbang-terlewat {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  display: inline-block;
+  width: 234px;
+  height: 31px;
+}
+.group-a {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 65px;
+  left: 496px;
+  width: 234px;
+  height: 70px;
+  color: inherit;
+}
+.group-icon {
+  position: absolute;
+  height: 52.17%;
+  width: 20.22%;
+  top: 0;
+  right: 35.39%;
+  bottom: 47.83%;
+  left: 44.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jadwal-terbang-akan-datang {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  display: inline-block;
+  width: 178px;
+  height: 31px;
+}
+.group-a1 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  height: 8.41%;
+  width: 14.78%;
+  top: 8.05%;
+  right: 22.84%;
+  bottom: 83.54%;
+  left: 62.38%;
+  color: inherit;
+}
+.menunggu-pembayaran {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 148px;
+  height: 48px;
+}
+.vector-icon {
+  position: absolute;
+  height: 42.86%;
+  width: 24.32%;
+  top: 0;
+  right: 36.49%;
+  bottom: 57.14%;
+  left: 39.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-a2 {
+  text-decoration: none;
+  position: absolute;
+  top: 68px;
+  left: 304px;
+  width: 148px;
+  height: 84px;
+  color: inherit;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1100px;
+  height: 137px;
+}
+.group-button,
+.order-id-209870 {
+  position: absolute;
+  top: 43px;
+  left: 750px;
+}
+.order-id-209870 {
+  top: 27px;
+  left: 0;
+  display: inline-block;
+  width: 136px;
+  height: 22px;
+}
+.bali,
+.jakarta,
+.pulang-pergi-dewasa-0-anak,
+.rab-12-okt-2022 {
+  position: absolute;
+  top: 71px;
+  left: 4px;
+  display: inline-block;
+  width: 302px;
+  height: 22px;
+}
+.bali,
+.jakarta,
+.rab-12-okt-2022 {
+  left: 358px;
+  width: 134px;
+}
+.bali,
+.jakarta {
+  top: 49px;
+  left: 5px;
+  color: var(--color-black);
+  width: 61px;
+}
+.bali {
+  left: 99px;
+  width: 30px;
+}
+.group-icon1 {
+  position: absolute;
+  height: 11.29%;
+  width: 2.21%;
+  top: 60.22%;
+  right: 86.75%;
+  bottom: 28.49%;
+  left: 11.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-div {
+  position: absolute;
+  top: 74.5px;
+  left: 321.5px;
+  border-right: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 1px;
+  height: 17px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 11.86%;
+  width: 2.54%;
+  top: 84.58%;
+  right: 47.41%;
+  bottom: 3.56%;
+  left: 50.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rab-12-okt-20221 {
+  position: absolute;
+  top: 71px;
+  left: 545px;
+  display: inline-block;
+  width: 134px;
+  height: 22px;
+}
+.line-div1 {
+  position: absolute;
+  top: 74.5px;
+  left: 508.5px;
+  border-right: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 1px;
+  height: 17px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 11.86%;
+  width: 2.54%;
+  top: 84.58%;
+  right: 19.86%;
+  bottom: 3.56%;
+  left: 77.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div2,
+.group-icon2 {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  width: 27px;
+  height: 27px;
+}
+.group-div2 {
+  top: 20px;
+  left: 13px;
+  width: 679px;
+  height: 93px;
+}
+.group-button1 {
+  position: absolute;
+  top: 102px;
+  left: 947px;
+}
+.group-div1,
+.group-div3,
+.group-div5 {
+  position: absolute;
+  top: 211px;
+  left: 52px;
+  width: 1100px;
+  height: 137px;
+  font-size: var(--font-size-base);
+}
+.group-div3,
+.group-div5 {
+  top: 371px;
+}
+.group-div5 {
+  top: 531px;
+  left: 50px;
+}
+.line-div6 {
+  position: absolute;
+  top: 174px;
+  left: 305px;
+  border-top: 2px solid var(--color-indigo-200);
+  box-sizing: border-box;
+  width: 146px;
+  height: 2px;
+}
+.group-div {
+  position: absolute;
+  top: 317px;
+  left: 118px;
+  width: 1204px;
+  height: 820px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+}
+.history-menunggu-pembayaran1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 2099px;
+  overflow: hidden;
+}
+.history-menunggu-pembayaran {
+  position: relative;
+  width: 100%;
+  height: 2099px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+
+@media screen and (max-width:800px){
+  body{
+      background-color:green;
+  }
+  .group-div1 {
+      position: absolute;
+      top: 211px;
+      left: 52px;
+      width: auto;
+      height: 400px;
+      font-size: var(--font-size-base);
+  }
+  .group-div {
+      position: absolute;
+      top: 317px;
+      left: 118px;
+      width: 1000px;
+      height: 1200px;
+      text-align: center;
+      font-size: var(--font-size-xl);
+      color: var(--color-gray-500);
+    }
+}

@@ -1,0 +1,11 @@
+@media (max-width: 478px) {
+    .btn-login {
+        width: 250px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .btn-login {
+        width: 400px;
+    }
+}

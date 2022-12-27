@@ -1,0 +1,23 @@
+@media screen and (max-width:800px){
+    body{
+        background-color:green;
+    }
+    .group-div1 {
+        position: absolute;
+        top: 211px;
+        left: 52px;
+        width: auto;
+        height: 400px;
+        font-size: var(--font-size-base);
+    }
+    .group-div {
+        position: absolute;
+        top: 317px;
+        left: 118px;
+        width: 1000px;
+        height: 1200px;
+        text-align: center;
+        font-size: var(--font-size-xl);
+        color: var(--color-gray-500);
+      }
+}

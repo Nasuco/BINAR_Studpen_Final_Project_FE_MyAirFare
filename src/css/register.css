@@ -1,0 +1,26 @@
+@media (max-width: 360px) {
+    .text {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 478px) {
+    .btn-regist {
+        width: 250px;
+    }
+    .judul {
+        font-size: 20px;
+    }
+    .text {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .btn-regist {
+        width: 400px;
+    }
+    .judul {
+        font-size: 30px;
+    }
+}
